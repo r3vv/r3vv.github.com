@@ -48,3 +48,8 @@ Add a file via the GitHub web interface.
 Delete a file via the GitHub web interface.
 
 ![9.PNG]({{site.baseurl}}/_posts/9.PNG)
+
+Pull changes from GitHub to your local repository
+
+![10x.PNG]({{site.baseurl}}/_posts/10x.PNG)
+
