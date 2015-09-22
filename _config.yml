@@ -135,4 +135,4 @@ JB :
 # Text Editor for GitHub repos
 
 prose:
-	media : "assets"
+	media : "assets/"
