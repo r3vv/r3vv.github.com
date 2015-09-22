@@ -7,6 +7,7 @@ tags: []
 published: true
 ---
 
+
 ## Last part of "Mastering Github" : Part 3
 
 ### DiffMerge
@@ -16,8 +17,12 @@ TortoiseGIT comes with a full Diff/Merge tool :)
 
 ### Branching
 
-Work with a partner to fork their repository via GitHub. Now you can modify and work with your own copy of that repository. You can fork anything on GitHub, that is what the community is about!
-Now since you are working with a partner you can organize to create a pull request so that your modifications on your forked repository go back to her main repository that you forked from.
+I forked the jekyll-bootstrap repo to improve it later, because it is still unfinished according to the author.
+
+It's really useful to put up a simple github pages blog in seconds with jekyll and bootstrap theme.
+
+![2.PNG]({{site.baseurl}}/assets/intermediate/2.PNG)
+
 
 
 ### GitHub Pages
