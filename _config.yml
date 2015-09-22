@@ -9,7 +9,7 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : Semana i GitHub blog
-tagline: semanai tec monterrey github blog
+tagline: "semanai tec monterrey github blog"
 author :
   name : Diego / R3VV
   email : me@test.com
