@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Semana i, mastering GitHub"
+title: "Semana i, mastering GitHub (1st part)"
 description: ""
 category: null
 tags: []
 published: true
 ---
+
 
 
 During the first two days of the **Semana**_i_ here at the Tec de Monterrey, Campus Guadalajara, we learned how to master GitHub (and Git of course) here are the things we achieved.
