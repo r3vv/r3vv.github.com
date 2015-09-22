@@ -1,7 +1,11 @@
 ---
+layout: post
+title: "Last part of Mastering Github : Part 3"
+description: ""
+category: null
+tags: []
 published: true
 ---
-
 
 ## Last part of "Mastering Github" : Part 3
 
